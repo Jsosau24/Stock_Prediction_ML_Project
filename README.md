@@ -1,2 +1,2 @@
-# Stock_Prediction_ML_Project
+# Stock Prediction ML Project
 TBD
